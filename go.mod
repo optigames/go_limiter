@@ -1,4 +1,4 @@
-module github.com/shareed2k/go_limiter
+module github.com/optigames/go_limiter
 
 go 1.14
 
