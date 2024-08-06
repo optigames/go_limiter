@@ -2,11 +2,12 @@ package main
 
 import (
 	"context"
-	"github.com/redis/go-redis/v9"
 	"log"
 	"time"
 
-	"github.com/shareed2k/go_limiter"
+	"github.com/redis/go-redis/v9"
+
+	"github.com/optigames/go_limiter"
 )
 
 func main() {
